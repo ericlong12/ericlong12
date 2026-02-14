@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Eric! 👋
 
-<!--
-**ericlong12/ericlong12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently focused on sharpening my problem-solving skills and mastering data structures & algorithms.
 
-Here are some ideas to get you started:
+### 📊 Coding Activity
+![Eric's Stats](https://github-readme-stats.vercel.app/api?username=ericlong12&show_icons=true&theme=radical&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericlong12&layout=compact&theme=radical&hide_border=true)
+
+---
+
+*"Current Studying Leetcode LOL."*
