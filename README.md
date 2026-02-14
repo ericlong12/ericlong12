@@ -1,14 +1,24 @@
-# Eric Long
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science-SJSU-111111?style=for-the-badge&labelColor=000000&color=2f2f2f" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Systems-111111?style=for-the-badge&labelColor=000000&color=2f2f2f" />
-  <img src="https://img.shields.io/badge/Interest-Distributed%20Systems-111111?style=for-the-badge&labelColor=000000&color=2f2f2f" />
-  <img src="https://img.shields.io/badge/Building-Scalable%20Software-111111?style=for-the-badge&labelColor=000000&color=2f2f2f" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=4C8EDA&center=true&vCenter=true&width=600&lines=I+like+building+things.;I+like+breaking+things.;I+like+understanding+how+things+work." />
 </p>
 
-<br />
+<br/>
+
+<h1 align="center">Hey, I'm Eric 👋</h1>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-roan-phi-66.vercel.app/api?username=ericlong12&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&text_bold=false" />
+  <img src="https://img.shields.io/badge/CS%20Student-SJSU-4c8eda?style=for-the-badge&labelColor=1f2937&color=4c8eda" />
+  <img src="https://img.shields.io/badge/Loves-Backend%20Systems-4c8eda?style=for-the-badge&labelColor=1f2937&color=4c8eda" />
+  <img src="https://img.shields.io/badge/Exploring-Distributed%20Systems-4c8eda?style=for-the-badge&labelColor=1f2937&color=4c8eda" />
+  <img src="https://img.shields.io/badge/Mindset-Build.%20Break.%20Learn.-4c8eda?style=for-the-badge&labelColor=1f2937&color=4c8eda" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-roan-phi-66.vercel.app/api?username=ericlong12&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&disable_animations=false" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=ericlong12&theme=transparent&hide_border=true&ring=4c8eda&fire=4c8eda&currStreakLabel=4c8eda" />
 </p>
