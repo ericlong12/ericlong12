@@ -1,4 +1,4 @@
-# Hi, I'm Eric! 👋
+# 👋 Hi there!
 
 I'm currently focused on sharpening my problem-solving skills and mastering data structures & algorithms.
 
