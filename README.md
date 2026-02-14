@@ -3,13 +3,12 @@
 I'm currently focused on sharpening my problem-solving skills and mastering data structures & algorithms.
 
 ### 📊 Coding Activity
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericlong12&show_icons=true&theme=default&cache_seconds=86400)
 
+![Eric's GitHub stats](https://github-readme-stats-roan-phi-66.vercel.app/api?username=ericlong12&show_icons=true&theme=transparent)
 
 
 ### 🚀 Most Used Languages
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ericlong12&layout=compact)
-
+![Top Langs](https://github-readme-stats-roan-phi-66.vercel.app/api/top-langs/?username=ericlong12&layout=compact)
 
 ---
 
