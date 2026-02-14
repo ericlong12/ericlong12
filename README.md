@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=4C8EDA&center=true&vCenter=true&width=600&lines=I+like+building+things.;I+like+breaking+things.;I+like+understanding+how+things+work." />
-</p>
-
-<br/>
-
 <h1 align="center">Hey, I'm Eric 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&pause=1200&color=4C8EDA&center=true&vCenter=true&width=500&lines=CS+Student+@+SJSU;Backend+Systems;Build.+Break.+Learn." />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CS%20Student-SJSU-4c8eda?style=for-the-badge&labelColor=1f2937&color=4c8eda" />
@@ -16,9 +14,6 @@
 <br/>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-roan-phi-66.vercel.app/api?username=ericlong12&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&disable_animations=false" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=ericlong12&theme=transparent&hide_border=true&ring=4c8eda&fire=4c8eda&currStreakLabel=4c8eda" />
+  <img height="150" src="https://github-readme-stats-roan-phi-66.vercel.app/api?username=ericlong12&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&text_bold=false" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=ericlong12&theme=transparent&hide_border=true&ring=4c8eda&fire=4c8eda&currStreakLabel=4c8eda" />
 </p>
