@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/CS%20Student-SJSU-4c8eda?style=for-the-badge&labelColor=1f2937&color=4c8eda" />
   <img src="https://img.shields.io/badge/Loves-Backend%20Systems-4c8eda?style=for-the-badge&labelColor=1f2937&color=4c8eda" />
   <img src="https://img.shields.io/badge/Exploring-Distributed%20Systems-4c8eda?style=for-the-badge&labelColor=1f2937&color=4c8eda" />
-  <img src="https://img.shields.io/badge/Mindset-Build.%20Break.%20Learn.-4c8eda?style=for-the-badge&labelColor=1f2937&color=4c8eda" />
 </p>
 
 <br/>
