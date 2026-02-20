@@ -1,4 +1,4 @@
-<h1 align="center">Eric Long </h1>
+<h1 align="center">hi, i'm eric </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&pause=1200&color=4C8EDA&center=true&vCenter=true&width=500&lines=CS+Student+@+SJSU;Backend+Systems;Build.+Break.+Learn." />
